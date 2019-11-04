@@ -46,4 +46,5 @@ Description: pgbackup
         5. Install dependencies: `pipenv install`
         
 Platform: UNKNOWN
+Requires-Python: >=3.6
 Description-Content-Type: text/markdown
